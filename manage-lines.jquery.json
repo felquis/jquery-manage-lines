@@ -1,0 +1,35 @@
+{
+	"name": "jquery-manage-lines",
+	"title": "jQuery Manage Lines",
+	"description": "jQuery manage lines plugin",
+	"keywords": [
+		"jquery",
+		"manage",
+		"lines",
+		"html",
+		"dom"
+	],
+	"version": "0.0.1",
+	"author": {
+		"name": "Felquis Gimenes",
+		"email": "oi@felquis.com",
+		"url": "https://github.com/felquis"
+	},
+	"maintainers": [{
+			"name": "Felquis Gimenes",
+			"email": "oi@felquis.com",
+			"url": "https://github.com/felquis"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://zenorocha.mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/felquis/jquery-manage-lines/issues",
+	"download": "https://github.com/felquis/jquery-manage-lines/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
